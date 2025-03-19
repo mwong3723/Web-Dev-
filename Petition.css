@@ -1,0 +1,88 @@
+.navbar {
+    color:white;
+    background-color: #4f4f4f;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+   
+}
+
+.box {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+.content_header {
+    color:darkblue;
+    display: flex;
+    justify-content: space-around; 
+}
+
+.sign_up_box h1 {
+    color:red;
+}
+
+.content_wrapper {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    max-width: 10000px; 
+    margin: auto;
+}
+
+.content_info {
+    flex: 1; 
+    padding-right: 20px; /* Adds some spacing */
+}
+
+.image img {
+    max-width: 300px; 
+    height: auto;
+    border-radius: 10px; 
+}
+
+.sign_up_box {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    /* border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9; */
+}
+
+.text_boxes input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.text_boxes button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+/* .text_boxes button:hover {
+    background-color: #0056b3;
+} */
+.h1_sign {
+    color:red;
+    display: flex;
+    justify-content: space-around;
+}
+.signatures {
+    display: flex;
+    justify-content: space-around;
+
+}
