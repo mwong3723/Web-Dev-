@@ -1,6 +1,7 @@
 // client/src/App.js
 import React, { useState, useEffect } from 'react';
-import '../public';
+// import '../public';
+import './App.css';
 
 function App() {
   const [formData, setFormData] = useState({
@@ -86,7 +87,7 @@ function App() {
               </p>
             </div>
             <div className="image">
-              <img src="/Users/matthewwong/Desktop/Web-Dev-/petition/petition/public/s-l400-2.jpg/" alt="Frozen professor" />
+              <img src="/images/frozen-professor.jpg" alt="Frozen professor" />
             </div>
           </div>
 
