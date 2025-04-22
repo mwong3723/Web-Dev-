@@ -1,0 +1,2 @@
+To run this application first you must run express petition project by going into the directory and doing npm install then npm start
+Then in another terminal go into the petition-react directory and do npm install and then npm start then open http://localhost:3000
